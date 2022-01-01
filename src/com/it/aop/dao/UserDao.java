@@ -51,4 +51,5 @@ public class UserDao {
         String sql = "update users set money=money-? where id=?";
         jdbcTemplate.update(sql,money,id);
     }
+    public void testGit(){}
 }
