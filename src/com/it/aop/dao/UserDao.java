@@ -52,4 +52,5 @@ public class UserDao {
         jdbcTemplate.update(sql,money,id);
     }
     public void testGit(){}
+    public void testGit2(){}
 }
