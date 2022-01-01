@@ -54,4 +54,8 @@ public class UserDao {
     public void testGit(){}
     public void testGit2(){}
     public void testmaster(){}
+
+    public void testjdbcbranch(){
+
+    }
 }
